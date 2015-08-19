@@ -1,0 +1,1 @@
+asquare predictive dialer is based on open source asterisk pbx.
